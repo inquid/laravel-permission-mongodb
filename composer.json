@@ -34,7 +34,7 @@
         "illuminate/auth": "^10.0",
         "illuminate/container": "^10.0",
         "illuminate/contracts": "^10.0",
-        "jenssegers/mongodb": "^3.9"
+        "jenssegers/mongodb": "dev-master"
     },
     "require-dev": {
         "monolog/monolog": "^3.2",
